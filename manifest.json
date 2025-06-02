@@ -2,7 +2,7 @@
   "name": "Mood Ledger",
   "short_name": "MoodLedger",
   "description": "A Progressive Web App to track your moods and gain insights.",
-  "start_url": "/index.html",
+  "start_url": "/Mood-Ledger/index.html",
   "display": "standalone",
   "background_color": "#3A302A",
   "theme_color": "#3A302A",
